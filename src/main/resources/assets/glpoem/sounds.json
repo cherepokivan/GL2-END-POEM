@@ -1,0 +1,10 @@
+{
+  "end_poem": {
+    "sounds": [
+      {
+        "name": "glpoem:end_poem",
+        "stream": true
+      }
+    ]
+  }
+}

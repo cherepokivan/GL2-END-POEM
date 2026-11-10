@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "glassland.end_poem.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "WinScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
